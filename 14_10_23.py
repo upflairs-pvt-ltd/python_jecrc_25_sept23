@@ -103,8 +103,36 @@ e = {'f':60,'g':70}
 # print('upflairs')
 # print('upflairs')
 # print('upflairs')
-lst = [2,5,56,7,4,6,94,8,7,22,11,4]
+# lst = [2,5,56,7,4,6,94,8,7,22,11,4]
 # for i in range(len(lst)):
 #     # print(i)
 #     if lst[i] == 8:
 #         print(i)
+
+
+
+# a = 10
+# b = 5
+
+# if a > b:
+#     print('True')
+#     if a!=b:
+#         print('a not equal  to b')
+#     else:
+#         print('a b are equal')
+# elif a == b:
+#     print('a and b are not equal')
+# else:
+#     print('False')
+
+a = 10
+b = 5
+if not((a<b) ):
+    print('true')
+else:
+    print('false')
+
+# if (a>b) and (a==b):
+#     print('true')
+# else:
+#     print('false')
