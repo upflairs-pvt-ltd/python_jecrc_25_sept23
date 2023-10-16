@@ -4,8 +4,6 @@ task = int(input('enter your option :-'))
 available_amount = 5000
 
 if (task >=1) and (task <=3):
-     
-
     if task == 1:
         # 1 balance
         check_message = f"your available balance is :- {available_amount}"
